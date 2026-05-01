@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Обо мне
 
-- 🔭 Сейчас я работаю над **[STRL_FAST_AP](https://github.com/showman228/STRL_FAST_API/tree/develop)**
+- 🔭 Сейчас я работаю над **[STRL_FAST_API](https://github.com/showman228/STRL_FAST_API/tree/develop)**
 - 🌱 В данный момент углубленно изучаю **архитектуру баз данных и внедрение в проекты, продвинутый Docker и nginx**
 - 💬 Спроси меня о **Python, FastAPI, алгоритмах и структурах данных, как работает интернет**
 
