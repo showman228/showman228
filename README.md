@@ -15,15 +15,6 @@
 </p>
 
 <details>
-  <summary><b>⚡ Statistics</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=showman228&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showman228&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </p>
-</details>
-
-<details>
   <summary><b>⚡ Best projects</b></summary>
   <br>
   <ul>
