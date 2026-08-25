@@ -30,14 +30,6 @@
 
 ---
 
-## 📊 System Analysis (Real-time Activity)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/showman228" alt="showman228's GitHub contribution graph" width="100%" />
-</p>
-
----
-
 ## 📁 Database Classified (Projects)
 
 <details open>
