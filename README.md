@@ -22,22 +22,43 @@
 
 ---
 
-## 🛠 Мой стек технологий
+## 🛠 Neural Interface (Tech Stack)
 
-Здесь собраны инструменты и технологии, с которыми я работаю:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,vscode,vim,bash,linux,postgres,cpp,js,docker,git" alt="Tech stack" />
+</p>
 
-* **Языки программирования:** Python, C++, postgreSQL
-* **Фреймворки и библиотеки:** FastAPI, SQLAlchemy, Pydantic V2
-* **Базы данных:** PostgreSQL, Redis
-* **Инфраструктура и инструменты:** Git, GitHub, Docker, Linux
-* **Дополнительно:** LeetCode (70+ решенных задач), базовое понимание frontend-интеграции, базовое понимание nginx
+---
 
+## 📊 System Analysis (Real-time Activity)
 
-<details>
-  <summary><b>⚡ Лучшие проекты</b></summary>
+<p align="center">
+  <img src="https://ghchart.rshah.org/showman228" alt="showman228's GitHub contribution graph" width="100%" />
+</p>
+
+---
+
+## 📁 Database Classified (Projects)
+
+<details open>
+  <summary><b>🐍 Python / FastAPI</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://github.com/showman228/STRL_FAST_API/tree/develop">Telegram Mini App Shop</a></b> — Бэкенд для магазина на Python, FastAPI (Pydantic V2), PostgreSQL, Redis и Docker. Включает админ-панель.</li>
-    <li><b><a href="https://github.com/showman228/labirinth_CPP">C++ Console Maze</a></b> — Консольная игра-лабиринт, демонстрирующая уверенную работу с базовыми конструкциями и алгоритмами.</li>
+    <li><b><a href="https://github.com/showman228/STRL_FAST_API/tree/develop">STRL_FAST_API</a></b> — бэкенд для магазина на Python, FastAPI (Pydantic V2), PostgreSQL, Redis и Docker. Включает админ-панель.</li>
+    <li><b><a href="https://github.com/showman228/FastAPI-shop">FastAPI-shop</a></b> — бэкенд онлайн-магазина одежды: каталог, корзина и оформление заказов на FastAPI.</li>
+    <li><b><a href="https://github.com/showman228/FastAPI_TODO">FastAPI_TODO</a></b> — бэкенд сервиса задач/заметок на FastAPI, SQLAlchemy 2.0 (async) и PostgreSQL.</li>
+    <li><b><a href="https://github.com/showman228/ChessPy">ChessPy</a></b> — простая шахматная игра, написанная на Python.</li>
+    <li><b><a href="https://github.com/showman228/Sudoku_solver">Sudoku_solver</a></b> — решатель судоку на Python.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>⚙️ C++ / Структуры данных</b></summary>
+  <br>
+  <ul>
+    <li><b><a href="https://github.com/showman228/labirinth_CPP">labirinth_CPP</a></b> — консольная игра-лабиринт, демонстрирующая работу с базовыми конструкциями и алгоритмами.</li>
+    <li><b><a href="https://github.com/showman228/LinkedList">LinkedList</a></b> — реализация односвязного списка на C++.</li>
+    <li><b><a href="https://github.com/showman228/Double_Linked_List">Double_Linked_List</a></b> — реализация двусвязного списка на C++.</li>
+    <li><b><a href="https://github.com/showman228/Queue">Queue</a></b> — реализация очереди на C++.</li>
   </ul>
 </details>
