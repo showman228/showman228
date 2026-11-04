@@ -16,9 +16,9 @@
 
 ## 👨‍💻 Обо мне
 
-- 🔭 Сейчас я работаю над **[STRL_FAST_API](https://github.com/showman228/STRL_FAST_API/tree/develop)**
-- 🌱 В данный момент углубленно изучаю **архитектуру баз данных и внедрение в проекты, продвинутый Docker и nginx**
-- 💬 Спроси меня о **Python, FastAPI, алгоритмах и структурах данных, как работает интернет**
+- 🔭 Сейчас я работаю над **[OrderFlow-Microservices](https://github.com/showman228/OrderFlow-Microservices)**
+- 🌱 В данный момент углубленно изучаю **архитектуру баз данных и внедрение в проекты, продвинутый Docker Redis RabbitMQ**
+- 💬 Нравится изучать новые технологии а также внедрять в свои пет-проекты, люблю решать алго-задачи на [leetcode](https://leetcode.com/u/vapir4ik/)
 
 ---
 
@@ -36,11 +36,11 @@
   <summary><b>🐍 Python / FastAPI</b></summary>
   <br>
   <ul>
-    <li><b><a href="https://github.com/showman228/STRL_FAST_API/tree/develop">STRL_FAST_API</a></b> — бэкенд для магазина на Python, FastAPI (Pydantic V2), PostgreSQL, Redis и Docker. Включает админ-панель.</li>
+    <li><b><a href="https://github.com/showman228/STRL_FAST_API/tree/develop">STRL_FAST_API</a></b> — бэкенд для магазина на Python, FastAPI (Pydantic V2), PostgreSQL и Docker. Включает админ-панель.</li>
     <li><b><a href="https://github.com/showman228/FastAPI-shop">FastAPI-shop</a></b> — бэкенд онлайн-магазина одежды: каталог, корзина и оформление заказов на FastAPI.</li>
     <li><b><a href="https://github.com/showman228/FastAPI_TODO">FastAPI_TODO</a></b> — бэкенд сервиса задач/заметок на FastAPI, SQLAlchemy 2.0 (async) и PostgreSQL.</li>
     <li><b><a href="https://github.com/showman228/ChessPy">ChessPy</a></b> — простая шахматная игра, написанная на Python.</li>
-    <li><b><a href="https://github.com/showman228/Sudoku_solver">Sudoku_solver</a></b> — решатель судоку на Python.</li>
+    <li><b><a href="https://github.com/showman228/OrderFlow-Microservices">пет-проект Микросервис</a></b> — тот же STRL_FAST_API но микросерввис.</li>
   </ul>
 </details>
 
