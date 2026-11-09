@@ -8,10 +8,6 @@
   <a href="https://github.com/showman228"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  Я увлекаюсь созданием API на FastAPI. Зачастую API пишу для интернет магазинов. Могу написать маленькие скрипты для автоматизации чего либо.
-</p>
-
 ---
 
 ## 👨‍💻 Обо мне
@@ -40,7 +36,7 @@
     <li><b><a href="https://github.com/showman228/FastAPI-shop">FastAPI-shop</a></b> — бэкенд онлайн-магазина одежды: каталог, корзина и оформление заказов на FastAPI.</li>
     <li><b><a href="https://github.com/showman228/FastAPI_TODO">FastAPI_TODO</a></b> — бэкенд сервиса задач/заметок на FastAPI, SQLAlchemy 2.0 (async) и PostgreSQL.</li>
     <li><b><a href="https://github.com/showman228/ChessPy">ChessPy</a></b> — простая шахматная игра, написанная на Python.</li>
-    <li><b><a href="https://github.com/showman228/OrderFlow-Microservices">пет-проект Микросервис</a></b> — тот же STRL_FAST_API но микросерввис.</li>
+    <li><b><a href="https://github.com/showman228/OrderFlow-Microservices">OrderFlow-Microservices</a></b> — тот же STRL_FAST_API но микросерввис.</li>
   </ul>
 </details>
 
