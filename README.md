@@ -21,7 +21,7 @@
 ## 🛠 Neural Interface (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,vscode,vim,bash,linux,postgres,cpp,js,docker,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,vscode,vim,bash,linux,rabbitmq,redis,postgres,cpp,js,docker,git" alt="Tech stack" />
 </p>
 
 ---
